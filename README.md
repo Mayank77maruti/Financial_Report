@@ -8,6 +8,10 @@ This repository contains a comprehensive Power BI project for financial analysis
 
 ![Financial-Report](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/f8bd1228-46fc-4fc1-b8cd-86a1f9ca8955)
 
+[Screencast from 2025-07-19 20-35-45.webm](https://github.com/user-attachments/assets/065a0d72-7224-4506-942e-38e145a2a1d7)
+
+
+
 ---
 
 ## Project Features
